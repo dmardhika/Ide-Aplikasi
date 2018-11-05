@@ -1,5 +1,0 @@
-Dini Mardhika
-1541180162 - TI-4C
-
-IDE SKRIPSI ANDROID
-Pada ide skripsi ini saya ingin membuat aplikasi untuk Perusahaan Daerah Air Minum (PDAM). Pada dasarnya PDAM memiliki vendor untuk servis komponen pada PDAM jika ada yang mengalami kerusakan. Maka dari itu saya ingin membuat sebuah aplikasi yang mendukung kinerja PDAM dalam proses pencarian vendor servis yang terdekat menggunakan geofencing dan FCM (Firebase Cloud Message) 
